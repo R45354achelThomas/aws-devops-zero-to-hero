@@ -1,1 +1,6 @@
-flask
+# Python dependencies for the simple Flask application
+# Used by both local development and Docker container builds
+
+flask==2.3.3
+gunicorn==21.2.0
+Werkzeug==2.3.7
